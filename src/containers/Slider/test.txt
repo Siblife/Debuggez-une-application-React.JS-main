@@ -1,0 +1,29 @@
+[
+    image 1,
+    image,2
+    image3,
+    image4
+]
+
+initalisation : indesx = 0
+tableau : 4
+-------------
+1tour : 
+entré : 0
+sortie : 1
+affichage image 2
+
+éeme tour :
+entré : 1
+sortie : 2
+affichage image 3
+
+3eme tour : 
+entré : 2
+sortie : 3
+affichage image 4
+
+4 tour : 
+entré : 3
+sortie : 0
+affichage image 1
